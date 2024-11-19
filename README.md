@@ -1,4 +1,5 @@
 # Bienvenido a mi página en GitHub
 
-# Conctacto
-- Alumno de computación y robótica en Baza(Granada)
+# Posición y Contacto
+- Alumno de computación y robótica en Baza(Granada)e
+- email: ovallor0211@g.educaand.es
